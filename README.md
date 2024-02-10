@@ -1,3 +1,7 @@
+<p align="left">
+    <img src="sonarqube.svg" width="30%">
+</p>
+
 # Install SonarQube in Ubuntu Linux 
 
 ### 1. Install OpenJDK 11
