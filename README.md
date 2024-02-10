@@ -113,9 +113,8 @@ http://IP:9000
 ```
 Log in with username admin and password admin. SonarQube will prompt you to change your password.
 
-
-[Click to do it with video.](https://drive.google.com/file/d/1IsIoMI6sAIJkCgy3UcAf20k0h6-dQt2k/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1IsIoMI6sAIJkCgy3UcAf20k0h6-dQt2k/view?usp=sharing" style="color:green;">Step-by-Step SonarQube Installation.</a>
 
 or
 
-[Click to do it with video.](https://www.youtube.com/watch?v=GTCQdgtd9mo)
+<a href="https://www.youtube.com/watch?v=GTCQdgtd9mo" style="color:green;">Step-by-Step SonarQube Installation.</a>
