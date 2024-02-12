@@ -38,3 +38,7 @@ volumes:
   sonarqube_extensions:
   sonarqube_logs:
   sonarqube_temp:
+
+
+
+# https://medium.com/@aedemirsen/sonarqube-nedir-ve-spring-boot-projemize-nas%C4%B1l-entegre-ederiz-9aae3fb9ad4b
